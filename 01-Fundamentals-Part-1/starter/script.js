@@ -1,5 +1,17 @@
 let javascript = "amazing";
-if (javascript === "amazing") {
-    alert("JavaScript is Fun!")
-}
-console.log(24 / 2)
+console.log(24 / 2);
+
+// VAriable name conventions 
+
+let name = "Leo";
+let number = 23;
+
+let javascriptIsFun = true;
+console.log(javascriptIsFun);
+
+console.log(typeof true);
+console.log(typeof javascriptIsFun);
+console.log(typeof 23);
+console.log(typeof "John");
+
+javascriptIsFun = "yes";
